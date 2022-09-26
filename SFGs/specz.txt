@@ -1,0 +1,4 @@
+#ID spectroscopic_redshift
+94 0.4233
+95 0.5189
+140 0.6002
